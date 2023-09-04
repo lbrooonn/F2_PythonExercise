@@ -122,6 +122,8 @@ while True:
                 print("Binary: ", binary)
                 print("Octal: ", octal)
                 print("Hexadecimal: ", hex)
+
+            main()
         case 0:
             print("Program exiting...")
             break
